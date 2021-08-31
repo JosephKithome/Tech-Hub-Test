@@ -1,0 +1,12 @@
+.cat-box{
+    display: flex;
+    padding: 2px;
+    
+}
+.cat-box .cat-content{
+    margin: 10px;
+    cursor: pointer;
+    font-size: 2px;
+    justify-content: space-between;
+
+}
