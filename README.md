@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# UK Kenya TechHub Technical test.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is  a single page application that consumes the chucknorris.io
+API. The application has categories consuming the same API.
+When a category is clicked, load the content coming from the API
 
 ## Available Scripts
 
@@ -67,4 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
