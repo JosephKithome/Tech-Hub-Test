@@ -2,6 +2,7 @@
   "name": "chucknorris.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://josephkithome.github.io/Tech-Hub-Test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -9,7 +10,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.1.0",
     "heroku": "^7.59.0",
-    "homepage": "https://josephkithome.github.io/Tech-Hub-Test/",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.6",
     "react-dom": "^17.0.2",
