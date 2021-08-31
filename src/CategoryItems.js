@@ -6,7 +6,7 @@ class CategoryItem extends React.Component {
     render() {
         return (
 
-            <div style={{ display: "flex", height: "50px" }}>
+            <div >
                 <Card style={{ width: '18rem',alignContent:"center" }}>
                     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                     <Card.Body>                     
