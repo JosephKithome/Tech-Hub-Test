@@ -52,7 +52,7 @@ class Category extends Component{
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="#home">Chucknorris.io</Nav.Link>
                             <Nav.Link href="#link"></Nav.Link>
                             <Form.Select aria-label="Default select example" onChange={(e)=>this.getCategoryItems(e.target.value)}>
                                 <option>Select category</option>
